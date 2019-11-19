@@ -1,0 +1,16 @@
+.introduction{
+    width: 400px;
+    height: 530px;
+    border: 1px black solid;
+    margin-left: 400px;
+}
+.top{
+    width: 400px;
+    height: 40px;
+    border-bottom: 1px  black solid;
+    background-color: dodgerblue;
+}
+.wenzi{
+    margin-top: 40px;
+    font-size: 20px;
+}

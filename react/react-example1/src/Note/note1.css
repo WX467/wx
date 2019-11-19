@@ -1,0 +1,23 @@
+.note1{
+    width: 400px;
+    height: 530px;
+    border: 1px black solid;
+    margin-left: 400px;
+}
+.top{
+    width: 400px;
+    height: 40px;
+    border-bottom: 1px  black solid;
+    background-color: dodgerblue;
+}
+.shuru TextArea{
+    width: 300px;
+    height: 250px;
+    border: 1px gray solid;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.shuru Button{
+    margin-top: 50px;
+    margin-left: 160px;
+}

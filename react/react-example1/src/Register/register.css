@@ -1,0 +1,68 @@
+.register{
+    height: 580px;
+    width: 800px;
+    border: 1px rgb(15, 15, 15) solid;
+    background: url(../picture/图244.jpg) no-repeat;
+    background-size: 100% 100%;
+    margin-left: 250px
+}
+.registerborder{
+    height: 350px;
+    width: 271px;
+    border: 1px rgba(204, 211, 214, 0.87) solid;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.touxiang{
+    margin-left: 105px;
+}
+.name{
+    margin-top: 10px;
+}
+.nameinput{
+    width: 170px;
+    height: 30px;
+}
+.number{
+    margin-top: 10px;
+}
+.numberinput{
+    width: 170px;
+    height: 30px;
+}
+.yanzheng{
+    margin-top:10px;
+}
+.yanzhenginput{
+    height: 30px;
+    width: 100px;
+}
+.area{
+    margin-top: 10px;
+}
+.areainput1{
+    height: 30px;
+    width: 90px;
+}
+.areainput2{
+    height: 30px;
+    width: 90px;
+}
+.password1{
+    margin-top: 10px;
+}
+.password1input{
+    width: 170px;
+    height: 30px;
+}
+.password2{
+    margin-top: 10px;
+}
+.password2input{
+    width: 170px;
+    height: 30px;
+}
+.zhuce{
+    margin-top: 10px;
+    margin-left: 100px;
+}

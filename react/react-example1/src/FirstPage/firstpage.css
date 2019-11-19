@@ -1,0 +1,65 @@
+.border{
+    width: 800px;
+    height: 530px;
+    border: 1px black solid;
+    margin-left: 250px;
+}
+.top{
+    width: 800px;
+    height: 40px;
+    border-bottom: 1px  black solid;
+    background-color: rgb(218, 243, 245);
+}
+.top Button{
+    height: 39px;
+}
+.slideshow{
+    width: 800px;
+    height: 150px;
+    margin:  0 auto;    
+    overflow: hidden;
+    border-bottom: 1px black solid;   
+}
+.pictures{
+    width: 4000px;
+    height:150px;
+    animation: lunbo 15s infinite linear;
+}
+.pictures li{
+    list-style: none;
+    float: left;    
+}
+.pictures li img{
+    width: 550px;
+    height: 150px;
+}
+@keyframes lunbo{
+    from{
+        margin-left: 20px;
+    }
+    to{
+        margin-left: -2050px;
+    }
+}
+.slideshow:hover ul{
+    animation-play-state: paused;
+    /* 鼠标滑过图片停止 */
+}
+.slideshow .pictures li:hover{
+    opacity: 1;
+}
+.category{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.category img{
+    margin-right: 20px;
+}
+.search{
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.search Button{
+    width: 200px;
+}
+

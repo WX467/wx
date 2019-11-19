@@ -1,0 +1,60 @@
+.dry{
+    width: 800px;
+    height: 530px;
+    border: 1px black solid;
+    margin-left: 250px;
+}
+.top{
+    width: 800px;
+    height: 40px;
+    border-bottom: 1px  black solid;
+    background-color: rgb(124, 183, 238);
+}
+.top Button{
+    height: 39px;
+    width: 100px;
+}
+.menu{
+    height: 490px;
+    width:100px;
+    border-right: 1px black solid;
+}
+.menu1{
+    height: 30px;
+    border-bottom: 1px black solid;
+}
+.menu2{
+    height: 30px;
+    border-bottom: 1px black solid;
+}
+.menu3{
+    height: 30px;
+    border-bottom: 1px black solid;
+}
+.menu4{
+    height: 30px;
+    border-bottom: 1px black solid;
+}
+.middle{
+    width: 350px;
+    height: 489px;
+    border-right: 1px black solid;
+    margin-top: -490px;
+    margin-left: 100px;
+}
+.middle strong{
+    font-size: 20px;
+}
+.right{
+    width: 350px;
+    height: 489px;
+    margin-left: 450px;
+    margin-top: -490px;
+    overflow: scroll;
+    width: 350px;
+    height: 489px;
+}
+.righttop{
+    height: 40px;
+    font-size: 20px;
+}

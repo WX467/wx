@@ -1,0 +1,42 @@
+.personal{
+    width: 400px;
+    height: 530px;
+    border: 1px black solid;
+    margin-left: 400px;
+}
+.top{
+    width: 400px;
+    height: 40px;
+    border-bottom: 1px  black solid;
+    background-color: dodgerblue;
+}
+.top Button{
+    height: 39px;
+}
+.my{
+    margin-top: 30px;
+    width: 400px;
+    height: 40px;
+    border-bottom: 1px black solid;
+}
+.my p{
+    font-size: 20px;
+}
+.note{
+    margin-top: 30px;
+    width: 400px;
+    height: 40px;
+    border-bottom: 1px black solid;
+}
+.note p{
+    font-size: 20px;
+}
+.qiehuan{
+    margin-top: 30px;
+    width: 400px;
+    height: 40px;
+    border-bottom: 1px black solid;
+}
+.qiehuan p{
+    font-size: 20px;
+}

@@ -1,0 +1,70 @@
+.homeborder{
+    width: 1000px;
+    height: 580px;
+    border: black 1px solid;
+    margin-left: 150PX;
+}
+.nav{
+    height:50px;
+    width:1000px;
+    margin-left: 0;
+    background:rgb(109, 183, 226);
+}
+.nav ul{
+    overflow: hidden;
+    margin-left:500px;
+}
+.nav li {
+    float:left;
+    margin-right:10%;
+}
+
+.nav li a{
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 10px;
+    overflow: hidden;
+    text-decoration: none; /* 去除下划线 */
+    
+}
+.nav li a:hover{
+    background-color: rgb(6, 7, 7);
+}
+
+
+
+.slideshow{
+    width: 1000px;
+    height: 530px;
+    margin:  0 auto;    
+    overflow: hidden;   
+}
+.pictures{
+    width: 4000px;
+    height:530px;
+    animation: lunbo 15s infinite linear;
+}
+.pictures li{
+    list-style: none;
+    float: left;    
+}
+.pictures li img{
+    width: 600px;
+    height: 530px;
+}
+@keyframes lunbo{
+    from{
+        margin-left: 20px;
+    }
+    to{
+        margin-left: -2050px;
+    }
+}
+.slideshow:hover ul{
+    animation-play-state: paused;
+    /* 鼠标滑过图片停止 */
+}
+.slideshow .pictures li:hover{
+    opacity: 1;
+}

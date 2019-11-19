@@ -1,0 +1,44 @@
+.login{
+    height: 580px;
+    width: 800px;
+    border: 1px rgb(15, 15, 15) solid;
+    background: url(../picture/图244.jpg) no-repeat;
+    background-size: 100% 100%;
+    margin-left: 250px
+}
+.loginborder{
+    height: 300px;
+    width: 271px;
+    border: 1px rgba(204, 211, 214, 0.87) solid;
+    margin-left: 150px;
+    margin-top: 140px;
+}
+.input1{
+    height: 20px;
+    width: 270px;
+}
+.input2{
+    height: 30px;
+    width: 270px;
+    margin-top: 25px;
+}
+.denglu{
+    background-color: rgb(99, 218, 226);
+    top: 20px;
+    left: 35px;
+    width: 200px;
+}
+.zhaozhu{
+    margin-top: 35px;
+    margin-left: 73px;
+}
+.weixin{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.qq{
+    margin-left: 30px;
+}
+.weibo{
+    margin-left: 30px;
+}

@@ -1,0 +1,16 @@
+.welcome{
+    border: 2px black solid;
+    background: url(../picture/手护绿.jpg) no-repeat;
+    position: fixed;
+    height: 100%;
+	width: 100%;
+	z-index: 0;
+    background-attachment: fixed;
+    background-size:100% 100%;
+}
+.in{
+    margin:47%;
+    margin-top: 500px;
+    color: white;
+
+}

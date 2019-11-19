@@ -1,0 +1,79 @@
+.message{
+    width: 800px;
+    height: 530px;
+    border: 1px black solid;
+    margin-left: 250px;
+}
+.top{
+    width: 800px;
+    height: 40px;
+    border-bottom: 1px  black solid;
+    background-color: dodgerblue;
+}
+.top Button{
+    height: 39px;
+}
+.newborder{
+    width: 800px;
+    height: 489px;
+    border: 1px;
+    overflow: scroll;
+
+}
+.new1{
+    width: 800px;
+    height: 160px;
+    border-bottom: 1px black solid;
+    overflow: scroll;
+    width: 800px;
+    height: 160px;
+}
+.new1 strong{
+    color: red;
+    font-size: 20px;
+}
+.new1 img{
+    width: 300px;
+    height: 80px;
+}
+.new2{
+    width: 800px;
+    height: 160px;
+    border-bottom: 1px black solid;
+    overflow: scroll;
+    width: 800px;
+    height: 160px;
+}
+.new2 strong{
+    color: red;
+    font-size: 20px;
+}
+.new3{
+    width: 800px;
+    height: 160px;
+    border-bottom: 1px black solid;
+    overflow: scroll;
+    width: 800px;
+    height: 160px;
+}
+.new3 strong{
+    color: red;
+    font-size: 20px;
+}
+.new4{
+    width: 800px;
+    height: 160px;
+    border-bottom: 1px black solid;
+    overflow: scroll;
+    width: 800px;
+    height: 160px;
+}
+.new4 strong{
+    color: red;
+    font-size: 20px;
+}
+.bottom{
+    margin-left: 350px;
+    font-size: 20px;
+    color: dodgerblue;
+}
